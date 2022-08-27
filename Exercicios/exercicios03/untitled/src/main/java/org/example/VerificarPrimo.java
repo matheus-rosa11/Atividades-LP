@@ -6,6 +6,7 @@ public class VerificarPrimo {
             if (numero % divisor == 0)
                 return false;
         }
+
         return true;
     }
 }
