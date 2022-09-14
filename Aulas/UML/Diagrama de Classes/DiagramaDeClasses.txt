@@ -1,0 +1,16 @@
+Uma classe é sempre representada por um retângulo.
+
+//classe
+NomeClasse|
+
+//atributos
+- numero
+- saldo
+- dtAbertura
+
+//methods
++ criar()
++ bloquear()...
+
+"-": private
+"+": public
